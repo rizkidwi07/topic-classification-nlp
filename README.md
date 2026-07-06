@@ -8,7 +8,7 @@ Implementasi **Text Classification** pada dataset tweet berbahasa Indonesia meng
 
 Repository ini berisi implementasi klasifikasi teks menggunakan dataset tweet berbahasa Indonesia. Tahapan yang dilakukan meliputi preprocessing teks, ekstraksi fitur, pelatihan model machine learning, hingga evaluasi hasil klasifikasi.
 
-Implementasi mengacu pada materi yang diberikan dosen serta artikel GeeksforGeeks mengenai Text Classification menggunakan Scikit-Learn dengan penyesuaian untuk bahasa Indonesia.
+Implementasi mengacu pada materi yang diberikan dosen serta artikel GeeksforGeeks mengenai Text Classification.
 
 ---
 
@@ -16,10 +16,10 @@ Implementasi mengacu pada materi yang diberikan dosen serta artikel GeeksforGeek
 
 | No | Nama | NIM |
 |----|------|-----|
-| 1 | Rizki Dwi Sya'bana Nugraha | (10522121) |
-| 2 | Nur Aisah | (10522125) |
-| 3 | Hilman Fauzi Abdilah | (10522034) |
-| 4 | Sandy Permana | (10522013) |
+| 1 | Hilman Fauzi Abdilah | (10522034) |
+| 2 | Sandy Permana | (10522013) |
+| 3 | Rizki Dwi Sya'bana Nugraha | (10522121) |
+| 4 | Nur Aisah | (10522126)|
 
 ---
 
@@ -44,7 +44,7 @@ https://github.com/agus235032/natural_lp/blob/master/tweet.csv
 
 ---
 
-## 📁 Struktur Repository
+## Struktur Repository
 
 ```
 topic-classification-nlp/
